@@ -7,7 +7,7 @@ Veri tabanı modeli gerekli şartlar yerine getirilerek PostgreSQL ile oluşturu
 
 > Projenin Oluşturulması
 
-Spring Initializr ile projenin temel özelliklerini belirlenerek oluşturulmuştur. <br>
+Spring Initializr ile projenin temel özellikleri belirlenerek oluşturulmuştur. <br>
 **Özellikler**  <br>
 * Project <br>
 - [X] Maven Project
