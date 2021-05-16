@@ -1,0 +1,13 @@
+Tablodaki Veriler
+
+users => tüm kullanıcı türlerini saklayacağımız ana tablomuz
+-employers       => iş veren kullanıcılar
+-jobSeekers      => iş arayan kullanıcılar
+-systemEmpleyees => sistem çalışanları 
+
+activiation_codes => doğrulama sistemleri için doğrulama kodlarını tutacağımız ana tablomuz
+-activiation_codes_employers => iş veren kullanıcılar için doğrulama kodlarının olduğu tablo
+-activiation_codes_jobSeekers => iş arayan kullanıcılar için doğrulama kodlarının olduğu tablo
+-employers_activiation_employees => sistem çalışanlarının iş verenleri onaylayacağı tablo
+
+job_position => iş pozisyonlarının isimlerinin tutulduğu tablo
