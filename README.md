@@ -2,7 +2,7 @@
 > Veritabanı Tasarımı <br>
 
 Veri tabanı modeli gerekli şartlar yerine getirilerek PostgreSQL ile oluşturulmuştur.<br>
-* [Tablo yapısı](https://github.com/nurseda-diker/Human-Resource-Management-System/blob/main/database%20design/hrms.png) <br>
+* [Tablo yapısı](https://github.com/nurseda-diker/Human-Resource-Management-System/blob/main/database%20design/tablo_yap%C4%B1s%C4%B1.txt) <br>
 * [Diyagram](https://github.com/nurseda-diker/Human-Resource-Management-System/blob/main/database%20design/hrms.png) <br>
 
 > Projenin Oluşturulması
